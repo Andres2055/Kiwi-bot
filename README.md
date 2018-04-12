@@ -28,8 +28,6 @@ Para correr a Kiwi, sólo entre en la carpeta `~Kiki\kiwi` y corra el archivo `K
 
 ## Lista de Comandos ##
 
---------
-
 **Leyenda**
 
 * `<>` Indica un parámetro obligatorio
@@ -60,7 +58,7 @@ Para correr a Kiwi, sólo entre en la carpeta `~Kiki\kiwi` y corra el archivo `K
 ### Moderación ###
 
 | Comandos | Descripción | Comandos Internos |
-| ------- | ----------- |
+| ------- | ----------- | --------- |
 | `kelimnar <límite de mensaje>` | | `kelimar me` |
 | `kkick <miembro> <razón>` |   |
 | `kban <miembro> <eliminar mensajes desde> <razón>` |   |
