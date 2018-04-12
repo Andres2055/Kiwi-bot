@@ -15,7 +15,8 @@
 Para instalar a Kiwi simplemente debes de abrir la carpeta padre de Kiwi y correr `setup.py` como:
 
 ```batch
-python3 setup.py install```
+python3 setup.py install
+```
 
 Ahora bien, una vez instalado Kiwi, procede a instalar la versión de **[discord.py reescrita](https://github.com/Rapptz/discord.py/tree/rewrite)**. Entra en el link anterior, descarga Discord.py como un archivo comprimido y abre el .zip, el cual contedrá el módulo, y busca en la carpeta padre: `setup.py`, y correlo.
 
